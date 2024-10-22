@@ -12,7 +12,7 @@
 # In[76]:
 
 
-from tabulate import tabulate
+
 import numpy as np
 from astropy.table import Table
 
