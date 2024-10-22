@@ -15,7 +15,7 @@
 # In[2]:
 
 
-from tabulate import tabulate
+
 import numpy as np
 from astropy.table import Table
 
