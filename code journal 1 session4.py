@@ -16,7 +16,7 @@
 
 
 class Animal:
-    # Initialization function (constructor)
+   
     def __init__(self, arm_length, leg_length, num_eyes, tail, furry):
         self.arm_length = float(arm_length)
         self.leg_length = float(leg_length)
